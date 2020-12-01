@@ -15,6 +15,6 @@ class NoteApplication : BaseApplication() {
     }
 
     override fun initExpands() {
-        
+
     }
 }
